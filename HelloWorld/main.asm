@@ -1,9 +1,9 @@
 .386p
 .model flat
 
-extern _ExitProcess@4:near
-extern _GetStdHandle@4:near
-extern _WriteConsoleA@20:near
+extrn _ExitProcess@4:near
+extrn _GetStdHandle@4:near
+extrn _WriteConsoleA@20:near
 
 .data
 msg       DB 'Hello World!', 10  ; 10 is the new line command
@@ -18,7 +18,8 @@ main PROC near
 
 	mov ebx, offset msg
 
-	push  -11               ;STD_OUTPUT_HANDLE
+	;STD_OUTPUT_HANDLE
+	push  -11               
 	call _getStdHandle@4
 	mov  outhandle, eax
 

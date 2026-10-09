@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kstu1\\CSC2025-KStubbs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEF37C3-D4B7-438C-B66C-B1203CFCB896}|PrintLetters\\PrintLetters.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLetters\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FEF37C3-D4B7-438C-B66C-B1203CFCB896}|PrintLetters\\PrintLetters.vcxproj|solutionrelative:PrintLetters\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLetters\\main.asm",
+              "RelativeDocumentMoniker": "PrintLetters\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLetters\\main.asm",
+              "RelativeToolTip": "PrintLetters\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-02T22:11:06.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
