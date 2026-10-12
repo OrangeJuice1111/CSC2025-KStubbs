@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kstu1\\CSC2025-KStubbs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|solutionrelative:Fibonacci\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D67048B-9C95-4E8C-ABCE-E04EB812A1B5}|exchange\\exchange.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D67048B-9C95-4E8C-ABCE-E04EB812A1B5}|exchange\\exchange.vcxproj|solutionrelative:exchange\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7926BFC-C133-42AF-A265-0ECA63C198DB}|print alphebet\\print alphebet.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C7926BFC-C133-42AF-A265-0ECA63C198DB}|print alphebet\\print alphebet.vcxproj|solutionrelative:print alphebet\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80ABCAE6-2CC8-4F91-94E3-0225EBFF39ED}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\HelloWorld\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{80ABCAE6-2CC8-4F91-94E3-0225EBFF39ED}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBB68E6C-B595-493A-A3D9-265150F4D037}|Adder\\Adder.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Adder\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EBB68E6C-B595-493A-A3D9-265150F4D037}|Adder\\Adder.vcxproj|solutionrelative:Adder\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm",
-              "RelativeDocumentMoniker": "print alphebet\\main.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm",
-              "RelativeToolTip": "print alphebet\\main.asm",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-09T21:20:33.322Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Adder\\main.asm",
-              "RelativeDocumentMoniker": "Adder\\main.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Adder\\main.asm",
-              "RelativeToolTip": "Adder\\main.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm",
+              "RelativeDocumentMoniker": "Fibonacci\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm*",
+              "RelativeToolTip": "Fibonacci\\main.asm*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-07T22:05:20.743Z"
+              "WhenOpened": "2026-10-12T17:43:43.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\HelloWorld\\main.asm",
-              "RelativeDocumentMoniker": "HelloWorld\\main.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\HelloWorld\\main.asm",
-              "RelativeToolTip": "HelloWorld\\main.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm",
+              "RelativeDocumentMoniker": "exchange\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm",
+              "RelativeToolTip": "exchange\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-02T21:56:48.483Z"
+              "WhenOpened": "2026-10-12T17:06:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm",
+              "RelativeDocumentMoniker": "print alphebet\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm",
+              "RelativeToolTip": "print alphebet\\main.asm",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-09T22:09:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculator.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm",
+              "RelativeDocumentMoniker": "Calculator\\calculator.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm",
+              "RelativeToolTip": "Calculator\\calculator.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-09T22:07:23.147Z",
+              "EditorCaption": ""
             }
           ]
         }

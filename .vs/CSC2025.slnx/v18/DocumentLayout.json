@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kstu1\\CSC2025-KStubbs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\test.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\test.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|solutionrelative:Fibonacci\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3D67048B-9C95-4E8C-ABCE-E04EB812A1B5}|exchange\\exchange.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D67048B-9C95-4E8C-ABCE-E04EB812A1B5}|exchange\\exchange.vcxproj|solutionrelative:exchange\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7926BFC-C133-42AF-A265-0ECA63C198DB}|print alphebet\\print alphebet.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C7926BFC-C133-42AF-A265-0ECA63C198DB}|print alphebet\\print alphebet.vcxproj|solutionrelative:print alphebet\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23F0F96E-5551-483C-A0BD-7320D047E2A0}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\calculator.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm",
+              "RelativeDocumentMoniker": "Fibonacci\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main.asm",
+              "RelativeToolTip": "Fibonacci\\main.asm",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T17:43:43.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm",
+              "RelativeDocumentMoniker": "exchange\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\exchange\\main.asm",
+              "RelativeToolTip": "exchange\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T17:06:40.47Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,40 +66,23 @@
               "RelativeDocumentMoniker": "print alphebet\\main.asm",
               "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\print alphebet\\main.asm",
               "RelativeToolTip": "print alphebet\\main.asm",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-09T22:09:17.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "calculator.asm",
               "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm",
               "RelativeDocumentMoniker": "Calculator\\calculator.asm",
               "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\calculator.asm",
               "RelativeToolTip": "Calculator\\calculator.asm",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-09T22:07:23.147Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\test.asm",
-              "RelativeDocumentMoniker": "Calculator\\test.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Calculator\\test.asm",
-              "RelativeToolTip": "Calculator\\test.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-09T22:06:36.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
