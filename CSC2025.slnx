@@ -7,8 +7,10 @@
   <Project Path="Calculator/Calculator.vcxproj" Id="23f0f96e-5551-483c-a0bd-7320d047e2a0" />
   <Project Path="exchange/exchange.vcxproj" Id="3d67048b-9c95-4e8c-abce-e04eb812a1b5" />
   <Project Path="Fibonacci/Fibonacci.vcxproj" Id="8eb089ba-cd18-4a69-a1ee-bd9d7bfe3b1f" />
+  <Project Path="FibonacciLoop/FibonacciLoop.vcxproj" Id="36a961f1-8295-4333-80c1-963fa70722aa" />
   <Project Path="HelloWorld/HelloWorld.vcxproj" Id="80abcae6-2cc8-4f91-94e3-0225ebff39ed" />
   <Project Path="LoopIO/LoopIO.vcxproj" Id="fd03e59c-122e-4691-a7bc-104756e62569" />
   <Project Path="MASM/MASM.vcxproj" Id="5e162716-e265-485c-90c1-5949d74cb6b3" />
   <Project Path="print alphebet/print alphebet.vcxproj" Id="c7926bfc-c133-42af-a265-0eca63c198db" />
+  <Project Path="PrintLine/PrintLine.vcxproj" Id="762484a8-5c7e-492d-a353-1a2bcb3ad125" />
 </Solution>
