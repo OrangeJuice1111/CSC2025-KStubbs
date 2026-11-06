@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kstu1\\CSC2025-KStubbs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{762484A8-5C7E-492D-A353-1A2BCB3AD125}|PrintLine\\PrintLine.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLine\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{762484A8-5C7E-492D-A353-1A2BCB3AD125}|PrintLine\\PrintLine.vcxproj|solutionrelative:PrintLine\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main_.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EB089BA-CD18-4A69-A1EE-BD9D7BFE3B1F}|Fibonacci\\Fibonacci.vcxproj|solutionrelative:Fibonacci\\main_.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36A961F1-8295-4333-80C1-963FA70722AA}|FibonacciLoop\\FibonacciLoop.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\FibonacciLoop\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{36A961F1-8295-4333-80C1-963FA70722AA}|FibonacciLoop\\FibonacciLoop.vcxproj|solutionrelative:FibonacciLoop\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D743FBF1-6830-4C71-A9D4-348874B6114B}|FibRecursive\\FibRecursive.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D743FBF1-6830-4C71-A9D4-348874B6114B}|FibRecursive\\FibRecursive.vcxproj|solutionrelative:FibRecursive\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D743FBF1-6830-4C71-A9D4-348874B6114B}|FibRecursive\\FibRecursive.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\fibrecurse.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D743FBF1-6830-4C71-A9D4-348874B6114B}|FibRecursive\\FibRecursive.vcxproj|solutionrelative:FibRecursive\\fibrecurse.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLine\\main.asm",
-              "RelativeDocumentMoniker": "PrintLine\\main.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\PrintLine\\main.asm",
-              "RelativeToolTip": "PrintLine\\main.asm",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowDUAAAAgAAAAAAAAAA==",
+              "Title": "main_.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main_.asm",
+              "RelativeDocumentMoniker": "Fibonacci\\main_.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\Fibonacci\\main_.asm",
+              "RelativeToolTip": "Fibonacci\\main_.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-19T22:06:43.724Z",
+              "WhenOpened": "2026-11-06T19:40:43.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.asm",
-              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibonacciLoop\\main.asm",
-              "RelativeDocumentMoniker": "FibonacciLoop\\main.asm",
-              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibonacciLoop\\main.asm",
-              "RelativeToolTip": "FibonacciLoop\\main.asm",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\main.asm",
+              "RelativeDocumentMoniker": "FibRecursive\\main.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\main.asm",
+              "RelativeToolTip": "FibRecursive\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-19T21:56:36.201Z",
+              "WhenOpened": "2026-11-06T19:13:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fibrecurse.asm",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\fibrecurse.asm",
+              "RelativeDocumentMoniker": "FibRecursive\\fibrecurse.asm",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\FibRecursive\\fibrecurse.asm",
+              "RelativeToolTip": "FibRecursive\\fibrecurse.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-06T19:13:09.328Z",
               "EditorCaption": ""
             }
           ]

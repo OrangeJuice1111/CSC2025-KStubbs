@@ -8,6 +8,7 @@
   <Project Path="exchange/exchange.vcxproj" Id="3d67048b-9c95-4e8c-abce-e04eb812a1b5" />
   <Project Path="Fibonacci/Fibonacci.vcxproj" Id="8eb089ba-cd18-4a69-a1ee-bd9d7bfe3b1f" />
   <Project Path="FibonacciLoop/FibonacciLoop.vcxproj" Id="36a961f1-8295-4333-80c1-963fa70722aa" />
+  <Project Path="FibRecursive/FibRecursive.vcxproj" Id="d743fbf1-6830-4c71-a9d4-348874b6114b" />
   <Project Path="HelloWorld/HelloWorld.vcxproj" Id="80abcae6-2cc8-4f91-94e3-0225ebff39ed" />
   <Project Path="LoopIO/LoopIO.vcxproj" Id="fd03e59c-122e-4691-a7bc-104756e62569" />
   <Project Path="MASM/MASM.vcxproj" Id="5e162716-e265-485c-90c1-5949d74cb6b3" />
