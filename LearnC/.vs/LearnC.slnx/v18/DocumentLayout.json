@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A337D9-DCA8-4869-A89D-D274CC9C0E51}|Echo\\Echo.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\Echo\\Echo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5A337D9-DCA8-4869-A89D-D274CC9C0E51}|Echo\\Echo.vcxproj|solutionrelative:Echo\\Echo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A83AC-55B1-4AE6-ADDA-83C97295286F}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{287A83AC-55B1-4AE6-ADDA-83C97295286F}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Echo.c",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\Echo\\Echo.c",
+              "RelativeDocumentMoniker": "Echo\\Echo.c",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\Echo\\Echo.c",
+              "RelativeToolTip": "Echo\\Echo.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-11T23:12:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\HelloWorld\\HelloWorld.c",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.c",
+              "ToolTip": "C:\\Users\\kstu1\\CSC2025-KStubbs\\LearnC\\HelloWorld\\HelloWorld.c",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-11T23:00:53.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
